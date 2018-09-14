@@ -9,6 +9,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return null;
   }
+  // ************ Type the line below to create the error (without the '//')
+  // ************ This only occurs the first time you type this line after
+  // ************ starting Android Studio
+  //
   // var client = http.C
+
 }
 
